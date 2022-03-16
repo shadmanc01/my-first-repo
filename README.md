@@ -1,1 +1,1 @@
-# my-first-repo
+My name is Shadman Chowdhury. I am a Software Engineering fellow in the Marcy Lab. I am looking forward to my next year here and growing as a Software Engineer.
